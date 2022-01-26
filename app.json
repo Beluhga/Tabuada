@@ -1,32 +1,21 @@
 {
   "expo": {
-    "name": "Tabuada",
-    "slug": "Tabuada",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+   "name": "Desafio Tabuada",
+   "icon": "./assets/icone.png",
+   "slug": "desafio-tabuada",
+   "version": "1.0.0",
+   "splash":{
+     "image": "./assets/splash.png",
+     "resideMode": "contain",
+     "backgroundColor": "#00b3bb"
+   },
+   "android":{
+     "package": "com.devup.desafiotabuada",
+     "versionCode": 1
+   },
+   "ios":{
+     "bundleIdentifier": "com.devup.desafiotabuada",
+     "buildNumber": "1.0.0"
+   }
   }
 }
