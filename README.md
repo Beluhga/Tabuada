@@ -29,7 +29,7 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/Beluhga/Tabuada
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto Mobile
 cd tabuada
 
 # instalar dependências
