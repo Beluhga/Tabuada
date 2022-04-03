@@ -7,7 +7,7 @@
 
 Tabuada com React-Native é uma aplicação mobile construída.
 
-A aplicação consiste em um jogo de tabuada, que da as respostas caso a pessoa erre.
+A aplicação consiste em um jogo de tabuada, que a cada resposta correta vai aumentando a dificuldade das questões. E caso o jogador erre, ele pode verificar a tabuada integrada ao APP
 
 ## Layout mobile
 https://user-images.githubusercontent.com/82901722/157357608-7fa7360e-05da-40a3-a05f-76174cb0afe0.mp4
