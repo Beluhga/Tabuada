@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/82901722/157357608-7fa7360e-05da-40a3-
 # Tecnologias utilizadas
 
 ## Mobile
-- ReactJS
+- Javascript
 - React Native
 - Expo
 
